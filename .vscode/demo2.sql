@@ -22,3 +22,4 @@ FROM books;
 SELECT * FROM books 
 ORDER BY price DESC 
 LIMIT 3;
+
